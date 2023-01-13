@@ -1,2 +1,2 @@
-# 1first-day-demo
+# first-day-demo
 Georgia Tech bootcamp 
